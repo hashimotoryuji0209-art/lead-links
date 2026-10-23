@@ -1,0 +1,70 @@
+{
+  "reference_page": "https://www.amorosa-shop.jp/f/christmas",
+  "image_host": "mdrn0087.itembox.cloud",
+  "products": [
+    {
+      "key": "story",
+      "name": "ダーズンローズ ストーリー／レッド",
+      "url": "https://www.amorosa-shop.jp/c/dozenrose/story/AMDR-ST-30",
+      "image": "https://mdrn0087.itembox.cloud/product/005/000000000519/000000000519-01.jpg",
+      "verification": "Official product page title and image URL in page HTML; image bytes blocked by current environment network policy"
+    },
+    {
+      "key": "loveheart",
+      "name": "ダイヤモンドローズ ラブハート／ブライトレッド",
+      "url": "https://www.amorosa-shop.jp/c/155738/loveheart/AM130DW-LH",
+      "image": "https://mdrn0087.itembox.cloud/product/003/000000000302/000000000302-01.jpg",
+      "verification": "Official product page title and image URL in page HTML; image bytes blocked by current environment network policy"
+    },
+    {
+      "key": "little-belle",
+      "name": "リトルベル ディズニーエディション（美女と野獣）",
+      "url": "https://www.amorosa-shop.jp/c/155738/180276/DSLB-30",
+      "image": "https://mdrn0087.itembox.cloud/product/004/000000000469/000000000469-01.jpg",
+      "verification": "Official product page title and image URL in page HTML; image bytes blocked by current environment network policy"
+    },
+    {
+      "key": "destiny",
+      "name": "デスティニーローズ（1本立ち）／ブライトレッド",
+      "url": "https://www.amorosa-shop.jp/c/180024/180248/AM20",
+      "image": "https://mdrn0087.itembox.cloud/product/002/000000000275/000000000275-01.jpg",
+      "verification": "Official product page title and image URL in page HTML; image bytes blocked by current environment network policy"
+    },
+    {
+      "key": "one",
+      "name": "ザ・ワン／ブライトレッド",
+      "url": "https://www.amorosa-shop.jp/c/155738/180275/THE_ONE_BRIGHTRED",
+      "image": "https://mdrn0087.itembox.cloud/product/001/000000000176/000000000176-01.jpg",
+      "verification": "Official product page title and image URL in page HTML; image bytes blocked by current environment network policy"
+    },
+    {
+      "key": "disney-destiny",
+      "name": "デスティニーローズ ディズニーエディション（美女と野獣）",
+      "url": "https://www.amorosa-shop.jp/c/180024/180248/DSDR-30",
+      "image": "https://mdrn0087.itembox.cloud/product/004/000000000476/000000000476-01.jpg",
+      "verification": "Official product page title and image URL in page HTML; image bytes blocked by current environment network policy"
+    },
+    {
+      "key": "drawer",
+      "name": "ダーズンローズ ドゥロワー（ラグジュアリー）／レッド",
+      "url": "https://www.amorosa-shop.jp/c/dozenrose/dozenrosedw/AMDRL-DW-30",
+      "image": "https://mdrn0087.itembox.cloud/product/003/000000000382/000000000382-01.jpg",
+      "verification": "Official product page title and image URL in page HTML; image bytes blocked by current environment network policy"
+    },
+    {
+      "key": "panache",
+      "name": "パナッシュ（W67-H52）／レッド108本",
+      "url": "https://www.amorosa-shop.jp/c/180024/180036/AMPN6752-30",
+      "image": "https://mdrn0087.itembox.cloud/product/005/000000000560/000000000560-01.jpg",
+      "verification": "Official product page title and image URL in page HTML; image bytes blocked by current environment network policy"
+    }
+  ],
+  "section_images": [
+    {
+      "section": "ring-case",
+      "url": "https://www.amorosa-shop.jp/c/dozenrose/foreverlove/AMDRP-FL-30",
+      "image": "https://mdrn0087.itembox.cloud/product/004/000000000408/000000000408-02.jpg",
+      "verification": "Image and product link paired on official Christmas page"
+    }
+  ]
+}
